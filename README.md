@@ -34,7 +34,7 @@ python hybrid_pypi_classifier.py --package requests
 ```
 ## How to cite
 
-If you find our work useful for your research, please cite the papers using the following BibTex entries:
+If you find our work useful for your research, please cite the paper using the following BibTex entries:
 ```bash
 @article{UMARZESHAN2026112792,
 title = {Many hands make light work: An LLM-based multi-agent system for detecting malicious PyPI packages},
