@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lamps_logo.png.jpeg" alt="LAMPS Logo" width="500"/>
+</p>
+
 # LAMPS: An LLM-based multi-agent system for detecting malicious PyPI packages
 
 This package includes a multi-agent pipeline using CrewAI with:
