@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lamps_logo.png.jpeg" alt="LAMPS Logo" width="500"/>
+  <img src="assets/lamps_logo.png.jpeg" alt="LAMPS Logo" width="200"/>
 </p>
 
 # LAMPS: An LLM-based multi-agent system for detecting malicious PyPI packages
