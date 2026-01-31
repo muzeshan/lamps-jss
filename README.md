@@ -1,4 +1,4 @@
-# Replication Package: LAMPS
+# LAMPS: An LLM-based multi-agent system for detecting malicious PyPI packages
 
 This package includes a multi-agent pipeline using CrewAI with:
 - Meta-LLaMA 3 (Instruct) for reasoning agents
